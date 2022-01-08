@@ -16,9 +16,9 @@ The project consists of three different files:
 
 ## Documentation
 
-Three different button given are:
+Three different button in the body are:
 
-1) Start- Click on the button and start the time.
+1) Start- Click on the button to start the timer.
 
 2) Stop - Click on the button to stop the timer.
 

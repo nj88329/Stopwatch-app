@@ -1,0 +1,244 @@
+/* 
+ #image{
+         background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+} 
+
+.background img{
+height:60vh;
+width:36vw;
+margin-top: 1.3%;
+margin-left: 250px;
+border-radius: 20%;
+margin-bottom: 30px;
+}
+
+@keyframes shake{
+    0%{
+       transform:  rotate(-20deg);
+    }
+    30%{
+        transform:  rotate(20deg);
+        }
+    85%{
+        transform:  rotate(-20deg);
+    }
+    100%{
+        transform:  rotate(20deg);
+    }
+    }
+    .cont{
+       backface-visibility: visible;
+    
+        height:40%;
+        box-shadow: red;
+        border-radius: 30%;
+        width: 40%;
+        margin-left: 25%;
+        margin-top: 10%;
+        background-color:black;
+    }
+
+.box{
+    display: flex;
+    margin-left: 35%;
+    margin-top: 60px;
+    
+}
+.box button{
+    margin-right:4px;
+}
+.display {
+    height:60px;
+}
+#text{
+    margin-left:34%;
+    margin-top: 10px;
+}
+#text p{
+    margin-left:16px ;
+ 
+    border-radius:30% ;
+    width:175px;
+}
+#hours{
+    font-size: 3rem;
+    margin-left:0%;
+    color: chartreuse;
+}
+#min{
+    font-size: 3rem;
+    color: chartreuse;
+}
+#sec{
+    font-size: 3rem;
+    color: chartreuse;
+}
+@media only screen and (max-width: 780px) {
+.cont{
+    width: 40%;
+}
+.box{
+    margin-left: 10%;
+}
+#hours{
+    margin-left:1% ;
+}
+
+#text{
+    border-radius: 20%;
+    margin-left:16px ;
+    width: 100px;
+}
+
+}
+@media only screen and (max-width: 580px) {
+    
+    .box{
+        margin-left: 5%;
+    }
+    #text p{
+        margin-left: 10px;
+        width: 125px;
+    }
+
+    #text{
+        margin-left: 10%;
+
+    }
+    #hours{
+        font-size: 2rem;
+        color: chartreuse;
+    }
+    #min{
+        font-size: 2rem;
+        color: chartreuse;
+    }
+    #sec{
+        font-size: 2rem;
+        color: chartreuse;
+    }
+    .background img{
+        margin-left: 70px;
+        height: 100px;
+    }
+    .cont{
+        
+        width: 50%;
+        height:50%;
+    }
+    .box{
+        margin-left: 8%;
+        width: 100px;
+        display: block;
+    }
+  }
+  @media only screen and (max-width: 320px) {
+    .cont{
+        width: 60%;
+    }
+    .box{
+        margin-left: 8%;
+        width: 100px;
+        display: block;
+    }
+    .box button{
+        margin-top: 10px;
+
+    }
+    #text p{
+        margin-left: 10px;
+        width: 45px;
+        z-index:-1;
+    }
+
+    #text{
+        margin-left: 5%;
+        width:60px;
+    }
+    #hours{
+        font-size: 1.5rem;
+        color: chartreuse;
+    }
+    #min{
+        font-size: 1.5rem;
+        color: chartreuse;
+    }
+    #sec{
+        font-size:1.5rem;
+        color: chartreuse;
+    }
+    .background img{
+        margin-left: 30px;
+        height: 50px;
+    }
+  }
+  @media only screen and (max-width: 200px) {
+    #text{
+        width: 30px;
+    }
+    #text p{
+        width:30px;
+    }
+    #hours{
+        font-size: 1.1rem;
+        color: chartreuse;
+    }
+    #min{
+        font-size: 1.1rem;
+        color: chartreuse;
+    }
+    #sec{
+        font-size:1.1rem;
+        color: chartreuse;
+    }
+    #start{
+        width:50px;
+    }
+    #stop{
+        width:50px;
+    }
+    #reset{
+        width:50px;
+    }
+    .box{
+        display: inline;
+    }
+
+  }
+  @media only screen and (max-width: 180px) {
+    #hours{
+        font-size: 0.8rem;
+        color: chartreuse;
+    }
+    #min{
+        font-size: 0.8rem;
+        color: chartreuse;
+    }
+    #sec{
+        font-size:0.8rem;
+        color: chartreuse;
+    }
+    
+  }
+  @media only screen and (max-width: 130px) {
+        .cont{
+            width:80%;
+            margin-left: 5%;
+            
+        }
+        #start{
+            width:45px;
+        }
+        #stop{
+            width:45px;
+        }
+        #reset{
+            width:45px;
+        }
+        .box{
+            display: inline;
+        }
+    
+  } */

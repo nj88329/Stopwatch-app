@@ -1,9 +1,9 @@
 # Stopwatch-app
 
-
 The project is on a stopwatch app which we can used by us for various time recordings.
 
-#Files
+# Files
+
 The project consists of three different files:
 1) index.html- It contains entire layout and html of the project.
 
